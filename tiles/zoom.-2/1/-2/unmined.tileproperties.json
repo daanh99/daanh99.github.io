@@ -1,0 +1,78 @@
+{
+  "10,-16": {
+    "SourceVersionHash": "ks3imXiWehxZDoAIzWranQuX7gs=",
+    "VersionHash": "WUlCGdx3gm+rpalAJDXiFbrDxdc="
+  },
+  "11,-16": {
+    "SourceVersionHash": "ks3imXiWehxZDoAIzWranQuX7gs=",
+    "VersionHash": "WUlCGdx3gm+rpalAJDXiFbrDxdc="
+  },
+  "12,-16": {
+    "SourceVersionHash": "ks3imXiWehxZDoAIzWranQuX7gs=",
+    "VersionHash": "WUlCGdx3gm+rpalAJDXiFbrDxdc="
+  },
+  "14,-16": {
+    "SourceVersionHash": "ks3imXiWehxZDoAIzWranQuX7gs=",
+    "VersionHash": "WUlCGdx3gm+rpalAJDXiFbrDxdc="
+  },
+  "10,-15": {
+    "SourceVersionHash": "09iE3zZ/9Q4rMcc90E0az7YZICE=",
+    "VersionHash": "WUlCGdx3gm+rpalAJDXiFbrDxdc="
+  },
+  "11,-15": {
+    "SourceVersionHash": "09iE3zZ/9Q4rMcc90E0az7YZICE=",
+    "VersionHash": "WUlCGdx3gm+rpalAJDXiFbrDxdc="
+  },
+  "12,-15": {
+    "SourceVersionHash": "09iE3zZ/9Q4rMcc90E0az7YZICE=",
+    "VersionHash": "WUlCGdx3gm+rpalAJDXiFbrDxdc="
+  },
+  "13,-15": {
+    "SourceVersionHash": "09iE3zZ/9Q4rMcc90E0az7YZICE=",
+    "VersionHash": "WUlCGdx3gm+rpalAJDXiFbrDxdc="
+  },
+  "11,-14": {
+    "SourceVersionHash": "p1AkcQvJTPgAsa+0XoETx70BwtA=",
+    "VersionHash": "Zv22HdGdKeWNzNcEJYPMkTWJ0Ls="
+  },
+  "12,-14": {
+    "SourceVersionHash": "p1AkcQvJTPgAsa+0XoETx70BwtA=",
+    "VersionHash": "Zv22HdGdKeWNzNcEJYPMkTWJ0Ls="
+  },
+  "13,-14": {
+    "SourceVersionHash": "09iE3zZ/9Q4rMcc90E0az7YZICE=",
+    "VersionHash": "Zv22HdGdKeWNzNcEJYPMkTWJ0Ls="
+  },
+  "10,-13": {
+    "SourceVersionHash": "+Q019YvRchdaUfBnADNQ/LXoSlI=",
+    "VersionHash": "Zv22HdGdKeWNzNcEJYPMkTWJ0Ls="
+  },
+  "12,-13": {
+    "SourceVersionHash": "p1AkcQvJTPgAsa+0XoETx70BwtA=",
+    "VersionHash": "Zv22HdGdKeWNzNcEJYPMkTWJ0Ls="
+  },
+  "11,-12": {
+    "SourceVersionHash": "p1AkcQvJTPgAsa+0XoETx70BwtA=",
+    "VersionHash": "F+vcZ9PdYaFc909f5M0whOmkwUU="
+  },
+  "13,-12": {
+    "SourceVersionHash": "p1AkcQvJTPgAsa+0XoETx70BwtA=",
+    "VersionHash": "F+vcZ9PdYaFc909f5M0whOmkwUU="
+  },
+  "14,-12": {
+    "SourceVersionHash": "p1AkcQvJTPgAsa+0XoETx70BwtA=",
+    "VersionHash": "F+vcZ9PdYaFc909f5M0whOmkwUU="
+  },
+  "10,-11": {
+    "SourceVersionHash": "VBbEC0HOAVIg2DENIXeR7qlikZc=",
+    "VersionHash": "F+vcZ9PdYaFc909f5M0whOmkwUU="
+  },
+  "11,-11": {
+    "SourceVersionHash": "VBbEC0HOAVIg2DENIXeR7qlikZc=",
+    "VersionHash": "F+vcZ9PdYaFc909f5M0whOmkwUU="
+  },
+  "14,-11": {
+    "SourceVersionHash": "VBbEC0HOAVIg2DENIXeR7qlikZc=",
+    "VersionHash": "F+vcZ9PdYaFc909f5M0whOmkwUU="
+  }
+}
